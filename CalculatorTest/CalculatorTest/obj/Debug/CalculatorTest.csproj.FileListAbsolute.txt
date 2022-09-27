@@ -1,0 +1,11 @@
+C:\Users\Billy\source\repos\CalculatorTest\CalculatorTest\bin\Debug\CalculatorTest.exe.config
+C:\Users\Billy\source\repos\CalculatorTest\CalculatorTest\bin\Debug\CalculatorTest.exe
+C:\Users\Billy\source\repos\CalculatorTest\CalculatorTest\bin\Debug\CalculatorTest.pdb
+C:\Users\Billy\source\repos\CalculatorTest\CalculatorTest\obj\Debug\CalculatorTest.csproj.AssemblyReference.cache
+C:\Users\Billy\source\repos\CalculatorTest\CalculatorTest\obj\Debug\CalculatorTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\Billy\source\repos\CalculatorTest\CalculatorTest\obj\Debug\CalculatorTest.Properties.Resources.resources
+C:\Users\Billy\source\repos\CalculatorTest\CalculatorTest\obj\Debug\CalculatorTest.csproj.GenerateResource.cache
+C:\Users\Billy\source\repos\CalculatorTest\CalculatorTest\obj\Debug\CalculatorTest.csproj.CoreCompileInputs.cache
+C:\Users\Billy\source\repos\CalculatorTest\CalculatorTest\obj\Debug\CalculatorTest.exe
+C:\Users\Billy\source\repos\CalculatorTest\CalculatorTest\obj\Debug\CalculatorTest.pdb
+C:\Users\Billy\source\repos\CalculatorTest\CalculatorTest\obj\Debug\CalculatorTest.calcMainWindow.resources
